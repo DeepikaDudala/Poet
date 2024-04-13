@@ -1,4 +1,10 @@
 python-dotenv
 langchain-openai
 streamlit
-langchain_community
+langchain-community
+langserve
+fastapi
+uvicorn
+langchain
+sse_starlette
+pydantic==1.10.13
